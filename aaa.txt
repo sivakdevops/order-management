@@ -1,2 +1,1 @@
-I am from QA
-i am from devops
+I am from QA 
